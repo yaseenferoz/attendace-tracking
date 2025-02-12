@@ -34,7 +34,6 @@ Thumbs.db
 dist/
 build/
 .out/
-server.js
 *.tsbuildinfo
 
 # Coverage reports
